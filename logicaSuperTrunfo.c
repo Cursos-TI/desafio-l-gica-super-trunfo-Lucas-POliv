@@ -14,7 +14,7 @@ int main () {
     int pontos, pontos2;
     
 
-    printf("==== OLÁ, SEJA BEM VINDO AO JOGO SUPER TRUNFO====\n");
+    printf("====OLÁ, SEJA BEM VINDO AO JOGO SUPER TRUNFO====\n");
 
 // ENTRADA CARTA 1
     printf("\nDIGITE OS DADOS DA CARTA 1.\n");
