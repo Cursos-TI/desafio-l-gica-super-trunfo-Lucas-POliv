@@ -473,8 +473,8 @@ int main () {
 
                     case 7:
                         printf("\nSua escolha foi: %d - Super Poder\n", escolha2);
-                        printf("Carta 1 - %s (%s):%lu\n", cidade, estado, super);
-                        printf("Carta 2 - %s (%s):%lu\n", cidade2, estado2, super2);
+                        printf("Carta 1 - %s (%s):%.2f\n", cidade, estado, super);
+                        printf("Carta 2 - %s (%s):%.2f\n", cidade2, estado2, super2);
                         
                         if(super > super2){
                             printf("\nCarta 1 (%s) Venceu!\n", cidade);
